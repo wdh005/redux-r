@@ -1,1 +1,1 @@
-reat_redux_study (기초 공부)
+reat_redux_study 
